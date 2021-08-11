@@ -1,0 +1,13 @@
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\bin\Debug\netcoreapp3.1\empWageoops.exe
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\bin\Debug\netcoreapp3.1\empWageoops.deps.json
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\bin\Debug\netcoreapp3.1\empWageoops.runtimeconfig.json
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\bin\Debug\netcoreapp3.1\empWageoops.runtimeconfig.dev.json
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\bin\Debug\netcoreapp3.1\empWageoops.dll
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\bin\Debug\netcoreapp3.1\empWageoops.pdb
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\obj\Debug\netcoreapp3.1\empWageoops.csproj.AssemblyReference.cache
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\obj\Debug\netcoreapp3.1\empWageoops.AssemblyInfoInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\obj\Debug\netcoreapp3.1\empWageoops.AssemblyInfo.cs
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\obj\Debug\netcoreapp3.1\empWageoops.csproj.CoreCompileInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\obj\Debug\netcoreapp3.1\empWageoops.dll
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\obj\Debug\netcoreapp3.1\empWageoops.pdb
+C:\Users\SHIVA KUMAR\source\repos\empWageoops\empWageoops\obj\Debug\netcoreapp3.1\empWageoops.genruntimeconfig.cache
