@@ -1,0 +1,13 @@
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\bin\Debug\netcoreapp3.1\linecomparisonoops.exe
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\bin\Debug\netcoreapp3.1\linecomparisonoops.deps.json
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\bin\Debug\netcoreapp3.1\linecomparisonoops.runtimeconfig.json
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\bin\Debug\netcoreapp3.1\linecomparisonoops.runtimeconfig.dev.json
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\bin\Debug\netcoreapp3.1\linecomparisonoops.dll
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\bin\Debug\netcoreapp3.1\linecomparisonoops.pdb
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\obj\Debug\netcoreapp3.1\linecomparisonoops.csproj.AssemblyReference.cache
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\obj\Debug\netcoreapp3.1\linecomparisonoops.AssemblyInfoInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\obj\Debug\netcoreapp3.1\linecomparisonoops.AssemblyInfo.cs
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\obj\Debug\netcoreapp3.1\linecomparisonoops.csproj.CoreCompileInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\obj\Debug\netcoreapp3.1\linecomparisonoops.dll
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\obj\Debug\netcoreapp3.1\linecomparisonoops.pdb
+C:\Users\SHIVA KUMAR\source\repos\linecomparisonoops\linecomparisonoops\obj\Debug\netcoreapp3.1\linecomparisonoops.genruntimeconfig.cache
